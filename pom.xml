@@ -27,6 +27,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.occurrent/subscription-api-blocking -->
+		<dependency>
+		    <groupId>org.occurrent</groupId>
+		    <artifactId>subscription-api-blocking</artifactId>
+		    <version>0.14.3</version>
+		</dependency>
 	</dependencies>
 
 	<build>
